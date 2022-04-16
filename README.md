@@ -1,6 +1,6 @@
-# Illinois-University-Accounting-Data-Analytics-Specialization
+# Accounting-Data-Analytics-Specialization
 ### University of Illinois at Urbana-Champaign
-This repository contains all the certifications purchased on 2022.
+MBA certification purchased over 2022.
 
 ## Introduction to Accounting Data Analytics and Visualization
 ### February 10, 2022
