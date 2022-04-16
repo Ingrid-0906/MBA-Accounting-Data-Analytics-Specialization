@@ -36,9 +36,18 @@ MBA certification purchased over 2022.
   - Data Preparation
 
 ## Machine Learning for Accounting with Python
-###
+### Apr 16, 2022
 
 ### Content
+- This course, Machine Learning for Accounting with Python, introduces machine learning algorithms (models) and their applications in accounting problems. It covers classification, regression, clustering, text analysis, time series analysis. 
+- It also discusses model evaluation and model optimization. This course provides an entry point for students to be able to apply proper machine learning models on business related datasets with Python to solve various problems.
+
+### Skills
+  - Text Analysis
+  - Basic Time Series Analysis
+  - Machine Learning Model Evaluation and Optimization
+  - Python Programming
+  - Machine Learning Modeling
 
 
 **Instructor(s)**<br>
